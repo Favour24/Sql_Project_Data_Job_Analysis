@@ -59,7 +59,7 @@ Here's the breakdown of the top Data Scientist jobs in the UK in 2023:
 - **Diverse Employers:** Companies like Deliveroo, Deutsche Bank, BT Group, Philips, and Rolls-Royce feature among the highest-paying employers.
 - **Variety of Job Titles:** Roles range from Analytics Engineer and Threat Analytics Data Scientist to GIS Data Scientist and FAIR Data Lead, reflecting the different specialisations within the Data Science field.
 
-![Top Paying Roles](assets\1_top_paying_roles.png)
+![Top Paying Roles](assets/1_top_paying_roles.png)
 *Bar graph visualizing the salary for the top 10 salaries for data scientists; ChatGPT generated this graph from my SQL query results*
 
 
@@ -101,7 +101,7 @@ Here's the breakdown of the most requested skills:
 - **Cloud and Data Visualisation:** Tableau and AWS follow with 219 and 217 mentions respectively, showing the relevance of visualisation and cloud technologies.
 - **Machine Learning Tools:** TensorFlow, PyTorch, and Scikit-learn feature among the top 10 skills, highlighting the importance of machine learning expertise.
 
-![Top Paying Roles Skills](assets\2_top_paying_roles_skills.png)
+![Top Paying Roles Skills](assets/2_top_paying_roles_skills.png)
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data scientists; ChatGPT generated this graph from my SQL query results*
 
 ### 3. Most In-Demand Data Scientist Skills
